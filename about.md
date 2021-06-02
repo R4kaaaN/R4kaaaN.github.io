@@ -4,12 +4,9 @@ title: من أنا
 permalink: /about/
 ---
 
-عرف عن نفسك، من أنت؟ وماذا تعمل؟
+### طالب هندسة حاسب وباحث أمني 
 
-### معلومات أخرى
+[R4kaaan@protonmail.com](mailto:R4kaaan@protonmail.com)
 
-هل لديك معلومات أخرى تريد مشاركتها؟
+[@R4kaaaN](https://twitter.com/R4kaaaN)
 
-### لمراسلتي
-
-[email@domain.com](mailto:email@domain.com)
